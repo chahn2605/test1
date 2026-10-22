@@ -14,3 +14,8 @@ git commit -m "커밋내용"
 3. 깃허브 업로드
 
 git push origin main
+
+
+
+
+이건 연습요이어서 수정하는걸 확인할거야. 

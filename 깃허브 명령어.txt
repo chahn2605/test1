@@ -1,0 +1,16 @@
+0. 파일 가져와서 동기화
+
+git pull
+
+
+1. 수정된 파일 반영
+
+git add .
+
+2. 깃 커밋하기
+
+git commit -m "커밋내용"
+
+3. 깃허브 업로드
+
+git push origin main
